@@ -10,11 +10,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santanna-de-oliveira-273183223/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leosantannx/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santannal&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/santannal/github-readme-stats)
-
 ## Tecnologias que utilizo
+
+<div style="display: flex">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santannal&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br/>
 
@@ -26,4 +26,3 @@
 <img style="align=center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img style="align=center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-Apaixonado por tecnologia desde sempre, mergulho nos bytes e códigos, onde a inovação e a criatividade se encontram.
