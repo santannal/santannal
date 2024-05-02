@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Sant'Anna de Oliveira 👋🏻
+# Olá! Eu sou o Leonardo Sant'Anna de Oliveira 👋🏻
 
 ## Sobre mim
 
