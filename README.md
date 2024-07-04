@@ -1,16 +1,16 @@
-# Olá! Eu sou o Leonardo Sant'Anna de Oliveira 👋🏻
+# Hello! I'm Leonardo Sant'Anna de Oliveira 👋🏻
 
-## Sobre mim
+## About me 👨🏻‍💻
 
-- Estudo na Fatec Dom Amaury Castanho;
-- Sou técnico em Desenvolvimento de sistemas desde 2023;
-- Tenho 18 anos;
-- Estou em busca do meu primeiro emprego na área.
+- I study at Dom Amaury Castanho 📚
+- I have been a systems development technician since 2023 🤓
+- I'm 18 years old 👨🏻
+- I'm looking for my first job in the field 💼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santanna-de-oliveira-273183223/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leosantannx/)
 
-## Tecnologias que utilizo
+## Technologies 🛰️
 
 <div style="display: inline_block"><br/>
 
