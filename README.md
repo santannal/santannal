@@ -2,7 +2,7 @@
 
 ## About me 👨🏻‍💻
 
-- I study at Dom Amaury Castanho 📚
+- I study at Fatec Dom Amaury Castanho 📚
 - I have been a systems development technician since 2023 🤓
 - I'm 18 years old 👨🏻
 - I'm looking for my first job in the field 💼
