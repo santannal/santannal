@@ -6,7 +6,7 @@
 - I have been a systems development technician since 2023 🤓
 - I'm 18 years old 👨🏻
 - I'm looking for my first job in the field 💼
-- I'm top #09 at Fatec Dom Amaury Castanho on beecrowd 🏆
+- I'm top #9 at Fatec Dom Amaury Castanho on beecrowd 🏆
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santanna-de-oliveira-273183223/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leosantannx/)
