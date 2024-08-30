@@ -4,7 +4,7 @@
 
 - I study at Fatec Dom Amaury Castanho 📚
 - I have been a systems development technician since 2023 🤓
-- I'm 18 years old 👨🏻
+- I'm 19 years old 👨🏻
 - I'm looking for my first job in the field 💼
 - I'm top #9 at Fatec Dom Amaury Castanho on beecrowd 🏆
 
